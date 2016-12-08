@@ -1,0 +1,4 @@
+c:\users\ilia\documents\visual studio 2015\Projects\MsdnAssemblyLoad\MyLibrary\bin\Debug\MyLibrary.dll
+c:\users\ilia\documents\visual studio 2015\Projects\MsdnAssemblyLoad\MyLibrary\bin\Debug\MyLibrary.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\MsdnAssemblyLoad\MyLibrary\obj\Debug\MyLibrary.dll
+c:\users\ilia\documents\visual studio 2015\Projects\MsdnAssemblyLoad\MyLibrary\obj\Debug\MyLibrary.pdb
